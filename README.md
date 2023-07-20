@@ -4,7 +4,7 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
     <div style="display: flex; justify-content: center;">
         <img style="display: block; -webkit-user-select: none; margin: auto; cursor: zoom-in; background-color: hsl(0, 0%, 90%); max-width: 100%; max-height: 100%;" 
-             src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="375" height="281" alt="Coding Animation">
+             src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="975" height="681" alt="Coding Animation">
     </div>
 </div>
 
