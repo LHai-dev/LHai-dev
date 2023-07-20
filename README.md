@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LimHai</h1>
-<h3 align="center">backend jr developer from Cambodia</h3>
+<h3 align="center">backend junior developer from Cambodia</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
     <div style="display: flex; justify-content: center;">
