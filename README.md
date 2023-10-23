@@ -122,5 +122,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LHai-dev" alt="LHai-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/LHai-dev" target="blank"><img src="https://img.shields.io/twitter/follow/limhai172?logo=twitter&style=for-the-badge" alt="LHai-dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/limhai172" target="blank"><img src="https://img.shields.io/twitter/follow/limhai172?logo=twitter&style=for-the-badge" alt="limhai172" /></a> </p>
 
