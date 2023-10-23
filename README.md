@@ -13,16 +13,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barroit&layout=compact&hide_title=true&langs_count=10&bg_color=angle,89a2ff,8992ff,898aff,8f89ff,9e89ff,ad89ff,bc89ff,cb89ff,da89ff,e989ff,f089ff,f789ff&text_color=FFD700&hide_border=true">
 </a>
 
-### 📺 I have a IG account
-<a href="https://space.bilibili.com/361996128">
-  <img src="https://img.shields.io/badge/bilibili-Ba1oretto-fb7299/?color=FFC0CB&style=plastic&logo=bilibili&labelColor=fb7299"></a> <a href="https://space.bilibili.com/361996128"><img src="https://img.shields.io/badge/dynamic/json?color=F0E68C&label=current%20fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D361996128&style=plastic&logo=bilibili&labelColor=FFC0CB" />
-</a>
-
-### 🤺 also, I like surfing on the internet 
-<a href="https://twitter.com/barro1t">
-  <img src="https://img.shields.io/badge/twitter-Baioretto-*/?color=1a8cd8&style=plastic&labelColor=deff74&logo=twitter">
-</a>
-
 <a href="https://github.com/barroit/ba1oretto.github.io">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=barroit&repo=ba1oretto.github.io&show_owner=true&bg_color=angle,98fb98,9affa7,9affb4,9affc1,9affce,9affdb,9affe8,9afff5,9afbff,9aedff,9adfff,9ad8ff,9acaff,9abcff,9aaeff,9aaeff,a19aff,ae9aff&text_color=DB7093&hide_border=true">
 </a>
@@ -34,12 +24,3 @@
 ### ✔️ you can reach me at [sunjiamu@outlook.com](mailto:sunjiamu@outlook.com).
 
 ### <p align="center"> ☕ I'm now learning Java and also familiar Spring. </p>
-
-<div align="center">
-  <a href="https://www.credly.com/badges/1fa68c81-7333-4cf3-917a-6bbcec4bde26/public_url">
-    <img src="https://user-images.githubusercontent.com/66552396/151163608-c042d456-23a7-49ff-82eb-7cd07bae445b.png" alt="vmware-certified-professional-application-modernization-develop-2022" />
-  </a>
-  <a href="https://www.credly.com/badges/d4489ae6-91fa-44ca-a139-6d9520304290/public_url">
-    <img src="https://user-images.githubusercontent.com/66552396/151642982-a9a3c82e-827f-4086-82d1-b5ce0d1d5f28.png" alt="vmware-spring-professional-2022" />
-  </a>
-</div>
