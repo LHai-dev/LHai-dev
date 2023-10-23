@@ -10,12 +10,9 @@
 ### 🍥 十八歳、学生です 🍥
 
 <a href="https://github.com/LHai-dev">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barroit&layout=compact&hide_title=true&langs_count=10&bg_color=angle,89a2ff,8992ff,898aff,8f89ff,9e89ff,ad89ff,bc89ff,cb89ff,da89ff,e989ff,f089ff,f789ff&text_color=FFD700&hide_border=true">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHai-dev&layout=compact&hide_title=true&langs_count=10&bg_color=angle,89a2ff,8992ff,898aff,8f89ff,9e89ff,ad89ff,bc89ff,cb89ff,da89ff,e989ff,f089ff,f789ff&text_color=FFD700&hide_border=true">
 </a>
 
-<a href="https://github.com/LHai-dev/microservice-spring-10-23.git">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=barroit&repo=LHai-dev.github.io&show_owner=true&bg_color=angle,98fb98,9affa7,9affb4,9affc1,9affce,9affdb,9affe8,9afff5,9afbff,9aedff,9adfff,9ad8ff,9acaff,9abcff,9aaeff,9aaeff,a19aff,ae9aff&text_color=DB7093&hide_border=true">
-</a>
 
 
 ### 🔎 I like tossing, that's a big motivation for me to learn programming.
