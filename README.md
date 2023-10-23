@@ -9,24 +9,13 @@
 ### 🎉 Born January 5, 2004
 ### 🍥 十八歳、学生です 🍥
 
-<a href="https://github.com/barroit">
+<a href="https://github.com/LHai-dev">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barroit&layout=compact&hide_title=true&langs_count=10&bg_color=angle,89a2ff,8992ff,898aff,8f89ff,9e89ff,ad89ff,bc89ff,cb89ff,da89ff,e989ff,f089ff,f789ff&text_color=FFD700&hide_border=true">
 </a>
 
-### 📺 I have a bilibili account
+### 📺 I have a IG account
 <a href="https://space.bilibili.com/361996128">
   <img src="https://img.shields.io/badge/bilibili-Ba1oretto-fb7299/?color=FFC0CB&style=plastic&logo=bilibili&labelColor=fb7299"></a> <a href="https://space.bilibili.com/361996128"><img src="https://img.shields.io/badge/dynamic/json?color=F0E68C&label=current%20fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D361996128&style=plastic&logo=bilibili&labelColor=FFC0CB" />
-</a>
-
-### ⛳️ and there's my steam account 
-<a href="https://steamcommunity.com/id/baioretto">
-  <img src="https://img.shields.io/badge/steam-Baioretto-192640/?color=192640&style=plastic&logo=steam&labelColor=204b78" />
-</a>
-<a href="https://steamcommunity.com/id/ba1oretto" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=192640&label=games&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DsteamGames%26queryKey%3D76561198969466418%26source%3DsteamGames%26queryKey%3D76561199219358010&style=plastic&logo=steam&labelColor=204b78" />
-</a>
-<a href="https://steamcommunity.com/id/baioretto">
-  <img src="https://img.shields.io/badge/dynamic/json?color=192640&label=friends&query=%24.data.totalSubs&suffix=%20&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DsteamFriends%26queryKey%3D76561198969466418%26source%3DsteamGames%26queryKey%3D76561199219358010&style=plastic&logo=steam&labelColor=204b78" />
 </a>
 
 ### 🤺 also, I like surfing on the internet 
