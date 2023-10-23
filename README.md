@@ -13,7 +13,4 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHai-dev&layout=compact&hide_title=true&langs_count=10&bg_color=angle,89a2ff,8992ff,898aff,8f89ff,9e89ff,ad89ff,bc89ff,cb89ff,da89ff,e989ff,f089ff,f789ff&text_color=FFD700&hide_border=true">
 </a>
 
-
-
-### 🔎 I like tossing, that's a big motivation for me to learn programming.
 ### <p align="center"> ☕ I'm now learning Java and also familiar Spring. </p>
