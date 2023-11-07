@@ -1,4 +1,3 @@
-<img style="height:60px;width:60px;margin-top:20px" src="https://www.istad.co/resources/img/CSTAD_120.png" alt="Developer 3">
 <h1 align="center">🚀 About Me</h1>
 <p align="center">I'm a full stack developer with a passion for creating amazing web applications and microservices.</p>
 
@@ -23,3 +22,7 @@ Spring Framework, Microservice, Web Design...
 # Project Title
 
 A brief description of what this project does and who it's for
+
+## Support
+For support, email fake@fake.com or join our CStad <img style="height:30px;width:30px" src="https://www.istad.co/resources/img/CSTAD_120.png" alt="Developer 3">
+.
