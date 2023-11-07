@@ -1,40 +1,5 @@
 <h1 align="center">🚀 About Me</h1>
 <p align="center">I'm a full stack developer with a passion for creating amazing web applications and microservices.</p>
-
-<h2 align="center">🛠 Skills</h2>
-<p align="center">Spring Framework, Microservice, Web Design...</p>
-
-<div align="center">
-![App Screenshot](https://avatars.githubusercontent.com/u/149658074?s=200&v=4)
-![App Screenshot](https://surveybox.istad.co/surveybox-logo.png)
-![App Screenshot](https://www.istad.co/resources/img/CSTAD_120.png)
-</div>
-
-<h2 align="center">🔗 Links</h2>
-<p align="center">Connect with me on various platforms:</p>
-
-<div align="center">
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hai172212)
-</div>
-
-<h1 align="center">Developers</h1>
-<p align="center">Meet the talented developers behind this project:</p>
-
-<div align="center">
-  <img src="developer1-avatar.png" alt="Developer 1">
-  <img src="developer2-avatar.png" alt="Developer 2">
-  <img src="developer3-avatar.png" alt="Developer 3">
-</div>
-
-<h1 align="center">Project Title</h1>
-<p align="center">This project is all about creating amazing web applications and microservices. It's perfect for anyone who values top-notch software development.</p>
-
-## 🚀 About Me
-I'm a full stack developer...
-
-
 ## 🛠 Skills
 Spring Framework, Microservice, Web Design...
 
