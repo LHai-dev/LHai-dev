@@ -1,24 +1,43 @@
-## 🚀 About Me
-I'm a full stack developer...
+<div align="center">
+  <img src="header-image.png" alt="Header Image">
+</div>
 
+<h1 align="center">🚀 About Me</h1>
+<p align="center">I'm a full stack developer with a passion for creating amazing web applications and microservices.</p>
 
-## 🛠 Skills
-Spring Framework, Microservice, Web Design...
+<h2 align="center">🛠 Skills</h2>
+<p align="center">I specialize in the following technologies:</p>
 
+<div align="center">
+  <img src="spring-framework.png" alt="Spring Framework" title="Spring Framework">
+  <img src="microservice.png" alt="Microservices" title="Microservices">
+  <img src="web-design.png" alt="Web Design" title="Web Design">
+</div>
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hai172212)
+<h2 align="center">🔗 Links</h2>
+<p align="center">Connect with me on various platforms:</p>
 
+<div align="center">
+  <a href="https://katherineoelsner.com">
+    <img src="portfolio-badge.png" alt="Portfolio" title="My Portfolio">
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="linkedin-badge.png" alt="LinkedIn" title="LinkedIn">
+  </a>
+  <a href="https://twitter.com/hai172212">
+    <img src="twitter-badge.png" alt="Twitter" title="Twitter">
+  </a>
+</div>
 
-## Developers
+<h1 align="center">Developers</h1>
+<p align="center">Meet the talented developers behind this project:</p>
 
-![App Screenshot](https://avatars.githubusercontent.com/u/149658074?s=200&v=4)
-![App Screenshot](https://surveybox.istad.co/surveybox-logo.png)
-![App Screenshot](https://www.istad.co/resources/img/CSTAD_120.png)
+<div align="center">
+  <img src="developer1-avatar.png" alt="Developer 1">
+  <img src="developer2-avatar.png" alt="Developer 2">
+  <img src="developer3-avatar.png" alt="Developer 3">
+</div>
 
+<h1 align="center">Project Title</h1>
+<p align="center">This project is all about creating amazing web applications and microservices. It's perfect for anyone who values top-notch software development.</p>
 
-# Project Title
-
-A brief description of what this project does and who it's for
