@@ -21,7 +21,8 @@ Spring Framework, Microservice, Web Design...
 
 # Project Title
 
-A brief description of what this project does and who it's for
+A brief description of what this project does and who it's for:
+
 I’m currently completed on [SurveyBox](https://surveybox.istad.co)
 
 ## Support
