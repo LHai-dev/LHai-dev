@@ -1,4 +1,4 @@
-<p align="center">Hi, I'm LimHai</p>
+<p align="center"><h1>Hi, I'm LimHai</h1></p>
 <h1 align="center">🚀 About Me</h1>
 <p align="center">I'm 19 year old</p>
 <p align="center">I'm a full stack developer with a passion for creating amazing web applications and microservices.</p>
