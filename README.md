@@ -21,9 +21,9 @@ Spring Framework, Microservice, Web Design...
 <p align="center">Meet the talented developers behind this project:</p>
 
 <div align="center">
-  <img src="[developer1-avatar.png](https://avatars.githubusercontent.com/u/149658074?s=200&v=4)" alt="Developer 1">
-  <img src="[developer2-avatar.png](https://surveybox.istad.co/surveybox-logo.png)" alt="Developer 2">
-  <img src="[developer3-avatar.png](https://www.istad.co/resources/img/CSTAD_120.png)" alt="Developer 3">
+  <img src="https://avatars.githubusercontent.com/u/149658074?s=200&v=4" alt="Developer 1">
+  <img src="https://surveybox.istad.co/surveybox-logo.png" alt="Developer 2">
+  <img src="https://www.istad.co/resources/img/CSTAD_120.png" alt="Developer 3">
 </div>
 
 # Project Title
