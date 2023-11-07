@@ -26,4 +26,4 @@ A brief description of what this project does and who it's for:
 I’m currently completed on [SurveyBox](https://surveybox.istad.co)
 
 ## Support
-For support, website and learn https://www.istad.co/ or join our CStad <a href="[url]()"><img style="height:15px;width:15px" src="https://www.istad.co/resources/img/CSTAD_120.png" alt="Developer 3"></a>.
+For support, website and learn https://www.istad.co/ or join our CStad <a href="[url]()"><img style="height:25px;width:25px" src="https://www.istad.co/resources/img/CSTAD_120.png" alt="Developer 3"></a>.
