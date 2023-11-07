@@ -27,4 +27,4 @@ I’m currently completed on [SurveyBox](https://surveybox.istad.co)
 
 ## Support
 For support, website and learn https://www.istad.co/ or join our CStad.
-<a href="[url]()"><img style="height:25px;width:25px" src="https://www.istad.co/resources/img/CSTAD_120.png" alt="Developer 3"></a>
+<a href="[url]()"><img style="height:35px;width:35px" src="https://www.istad.co/resources/img/CSTAD_120.png" alt="Developer 3"></a>
