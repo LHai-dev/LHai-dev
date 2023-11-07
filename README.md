@@ -1,4 +1,4 @@
-  <img style="margin-button: 100" src="https://www.istad.co/resources/img/CSTAD_120.png" alt="Developer 3">
+<img style="height:20px;width:20px" src="https://www.istad.co/resources/img/CSTAD_120.png" alt="Developer 3">
 <h1 align="center">🚀 About Me</h1>
 <p align="center">I'm a full stack developer with a passion for creating amazing web applications and microservices.</p>
 
