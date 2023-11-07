@@ -23,7 +23,7 @@ Spring Framework, Microservice, Web Design...
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/149658074?s=200&v=4" alt="Developer 1">
   <img src="https://surveybox.istad.co/surveybox-logo.png" alt="Developer 2">
-  <img src="https://www.istad.co/resources/img/CSTAD_120.png" alt="Developer 3">
+  <img style="margin-button: 10px" src="https://www.istad.co/resources/img/CSTAD_120.png" alt="Developer 3">
 </div>
 
 # Project Title
