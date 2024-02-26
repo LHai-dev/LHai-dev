@@ -34,7 +34,7 @@ I’m currently completed on [SurveyBox](https://surveybox.istad.co)
 For support, website and learn https://www.istad.co/ or join our CStad.
 <a href="[url]()"><img style="height:35px;width:35px" src="https://www.istad.co/resources/img/CSTAD_120.png" alt="Developer 3"></a>
 
-<a href="[url]()"><img style="height:35px;width:35px" src="[https://www.istad.co/resources/img/CSTAD_120.png](https://surveybox.istad.co/surveybox-logo.png)" alt="Developer 3"></a>
+## <a href="[url]()"><img style="height:35px;width:35px" src="[https://www.istad.co/resources/img/CSTAD_120.png](https://surveybox.istad.co/surveybox-logo.png)" alt="Developer 3"></a>
 
 <!--- snake -->
 <div align="center">
