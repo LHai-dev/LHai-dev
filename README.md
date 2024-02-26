@@ -37,7 +37,7 @@ For support, website and learn https://www.istad.co/ or join our CStad.
 ## <a href="[url]()"><img style="height:35px;width:35px" src="[https://www.istad.co/resources/img/CSTAD_120.png](https://surveybox.istad.co/surveybox-logo.png)" alt="Developer 3"></a>
 
 <!--- snake -->
-<div align="center">
-  <img  src="https://raw.githubusercontent.com/b1ink0/b1ink0/main/assets/grid-snake.svg"
+# <div align="center">
+ # <img  src="https://raw.githubusercontent.com/b1ink0/b1ink0/main/assets/grid-snake.svg"
        alt="snake" /></a>
-</div>
+# </div>
