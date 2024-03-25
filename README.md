@@ -27,3 +27,5 @@ For support, website and learn https://www.istad.co/ or join our CStad.
 <a href="[url]()"><img style="height:35px;width:35px" src="https://www.istad.co/resources/img/CSTAD_120.png" alt="Developer 3"></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHai-Dev&layout=compact)](https://github.com/LHai-Dev/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=LHai-dev&label=PROFILE+VIEWS)
+
