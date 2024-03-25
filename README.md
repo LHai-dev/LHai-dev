@@ -10,10 +10,7 @@
 
 Spring Framework, Microservice, Web Design,Docker....
 
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lun-lim-hai-9141a82a0/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/limhai172)
+![](https://komarev.com/ghpvc/?username=LHai-dev&label=PROFILE+VIEWS)
 
 
 # Project Title
@@ -27,5 +24,4 @@ For support, website and learn https://www.istad.co/ or join our CStad.
 <a href="[url]()"><img style="height:35px;width:35px" src="https://www.istad.co/resources/img/CSTAD_120.png" alt="Developer 3"></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHai-Dev&layout=compact)](https://github.com/LHai-Dev/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=LHai-dev&label=PROFILE+VIEWS)
 
