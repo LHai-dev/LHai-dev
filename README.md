@@ -11,6 +11,5 @@
 
 ## Support
 For support, website and learn https://www.istad.co/ or join our CStad.
-<a href="[url]()"><img style="height:35px;width:35px" src="https://www.istad.co/resources/img/CSTAD_120.png" alt="Developer 3"></a>
 
 
